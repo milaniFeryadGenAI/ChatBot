@@ -1,7 +1,7 @@
 
 ## Overview
 
-This repository contains the source code for an AI-driven chatbot designed to assist Vodafone Türkiye customers. Utilizing advanced NLP techniques and Generative AI, the chatbot aims to provide accurate and meaningful responses to customer inquiries, leveraging a comprehensive database of FAQ documents.
+This repository contains the source code for an AI-driven chatbot designed to assist Vodafone Türkiye customers. Utilizing advanced NLP techniques (LLM + RAG) and Generative AI, the chatbot aims to provide accurate and meaningful responses to customer inquiries, leveraging a comprehensive database of FAQ documents.
 
 ## Features
 
